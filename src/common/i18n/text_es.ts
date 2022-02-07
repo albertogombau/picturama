@@ -85,11 +85,11 @@ export default {
     LibraryFilterButton_filter_tag: 'Con etiqueta "{0}"',
     LibraryFilterButton_tag_title: 'Con etiqueta:',
 
-    LibraryTopBar_emptyTrashQuestion: 'Estás seguro de que quieres vaciar la papelera?',
+    LibraryTopBar_emptyTrashQuestion: '¿Estás seguro de que quieres vaciar la papelera?',
     LibraryTopBar_moveToTrash: 'Mover a la papelera del sistema operativo',
     LibraryTopBar_emptyTrash: 'Vaciar papelera',
 
-    MainMenu_version: `Version {0}`,
+    MainMenu_version: `Versión {0}`,
     MainMenu_settings: 'Ajustes',
     MainMenu_quit: `Salir`,
     MainMenu_file: `Archivo`,
@@ -121,8 +121,8 @@ export default {
 
     PhotoDetailBody_selected: 'Seleccionado',
     PhotoDetailBody_select: 'Escoger',
-    PhotoDetailBody_error_loadingFailed: ``,  // TODO: 'Loading photo failed'
-    PhotoDetailBody_error_loadingFailed_desc: ``,  // TODO: `Picturama can't load this photo`
+    PhotoDetailBody_error_loadingFailed: ``,  // TODO: 'Error en la carga de la ímagen'
+    PhotoDetailBody_error_loadingFailed_desc: ``,  // TODO: `Picturama no puede cargar esa imágen`
 
     PhotoDetailPane_prevPhoto: 'Anterior foto',
     PhotoDetailPane_nextPhoto: 'Siguiente foto',
